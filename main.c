@@ -1,8 +1,8 @@
 //Trabalho . ED1.
 //Marianna Karenina de Almeida Fl�res
-//N�USP: 10821144
 
-//<<< �rvore de Decis�o >>>>
+
+//<<< Arvore de Decisao >>>>
 
 #include <stdio.h>
 #include <stdlib.h>
