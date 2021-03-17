@@ -1,2 +1,5 @@
-# T2ArvDEC
-T2deED1 (020.2) Este trabalho é relacionado ao uso de uma lista não-linear encadeada dinâmica do tipo árvore binária, e também pode incluir o uso de funções recursivas para manipular/percorrer as árvores binárias, tanto na inserção de nodos (busca) quando na consulta aos dados da árvore (visitar nodos). O programa irá ler os dados de entrada (stdin/teclado), no formato descrito abaixo, e que irá permitir a construção da árvore. Os dados de entrada permitem construir a árvore CORRETAMENTE de cima para baixo, ou seja, da raiz em direção aos nodos folhas. Os dados são strings separadas por espaços em branco (linhas de texto: palavra1 palavra2 palavra3).
+# ArvDEC
+
+This work is related to the use of a dynamic non-linear linked list of the binary tree type, and may also include the use of recursive functions to manipulate / traverse the binary trees, both in the insertion of nodes (search) and in the consultation of data tree (visit nodes). The program will read the input data (stdin / keyboard), in the format described below, which will allow the construction of the tree. The input data allows to build the tree CORRECTLY from top to bottom, that is, from the root towards the leaf nodes. The data are strings separated by white spaces (lines of text: word1 word2 word3).
+
+ED1_T2 (020.2) 
